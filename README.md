@@ -1,2 +1,2 @@
 # informa
-Aulas de informatica e programação 2 ano A PPZ
+Aulas de tecnologia e programação 2 ano A PPZ
